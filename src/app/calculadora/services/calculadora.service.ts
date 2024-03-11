@@ -2,7 +2,7 @@
  * Serviço responsável por executar as operações da 
  * calculadora.
  * 
- * @author Márcio C. de Souza<contato@kazale.com>
+ * @author Emílio José Camilo<camilojc1982@gmail.com>
  * @since 1.0.0
  */
 
